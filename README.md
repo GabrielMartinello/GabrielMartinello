@@ -1,4 +1,4 @@
-### Olá eu sou o Gabriel Martinello, e atuo como programador front/backend!! 😄
+### Olá eu sou o Gabriel Martinello, e atuo como programador java!! 😄
 
 ### Pronto para novos desafios, procurando evoluir cada vez mais, adquirindo conhecimento para realizar minhas tarefas e entregar com prontidão, trazendo uma boa experiência para o usuário em relação ao sistema.
 
