@@ -6,7 +6,6 @@
 - 🌱 Estudando tecnologias modernas e aprimorando minhas habilidades!
 - 👯 Buscando evoluir tanto pessoalmente como profissionalmente!
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielMartinello&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMartinello&theme=transparent&hide=jupyter%20notebook)](https://github.com/GabrielMartinello/github-readme-stats)
 
 <div style="display: inline_block"><br>
